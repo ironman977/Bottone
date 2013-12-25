@@ -1,0 +1,5 @@
+I write this simple class to manage one or more button at the same time. 
+test.cpp contain a simple example of toggle functionality (tstate())
+istantaneous value of button can be retrived with state().
+
+Any feedback will be apreciated
